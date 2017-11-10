@@ -8,7 +8,7 @@ Obviously you need Python. I'd recommend installing [Anaconda](anaconda.com), wh
 
 If you have python installed, make sure to install [Jupyter](http://jupyter.org/), as well as the necessary python packages for Pandas and Seaborn via pip.
 
-You can see the steps in [Exploring Datasets.ipynb](Exploring Datasets.ipynb). Github will render the Jupyter Notebooks so you don't have to download it. If you want to try it yourself, feel free to to it inside [Exploring Datasets Yourself.ipynb](Exploring Datasets Yourself.ipynb).
+You can see the steps in [Exploring Datasets.ipynb](./Exploring\ Datasets.ipynb). Github will render the Jupyter Notebooks so you don't have to download it. If you want to try it yourself, feel free to to it inside [Exploring Datasets Yourself.ipynb](./Exploring\ Datasets Yourself.ipynb).
 
 ## Source
 
