@@ -4,7 +4,20 @@ This is an example of how to use Python and Jupyter Notebook to explore a given 
 
 ## Requirements
 
-Obviously you need Python. I'd recommend installing [Anaconda](anaconda.com), which provides you with all the fancy Python data-science libraries.
+To get started, create a virtual environment and install the requirements in it.
+
+```bash
+$ python3 -m venv venv
+$ pip install pandas seaborn jupyterlab
+```
+
+After that, you can launch your notebook server by running
+
+```
+$ jupyter-lab
+```
+
+Of course you can use your own environment as well. Obviously you need Python. I'd recommend installing [Anaconda](anaconda.com), which provides you with all the fancy Python data-science libraries.
 
 If you have python installed, make sure to install [Jupyter Notebook](http://jupyter.org/), as well as the necessary python packages for Pandas and Seaborn via pip.
 
